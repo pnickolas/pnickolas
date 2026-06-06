@@ -23,3 +23,9 @@ Contributions to society are below this README.
 <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/6d754a8b-e47e-440b-bbb1-9187dfb1b778" /><img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/6afbd009-6fed-4e81-8b1f-b98bb51ff8da" />
 <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/9346fdbf-97e6-47ec-bd9d-3642da5b51c5" />
 <img width="88" height="31" alt="xxx" src="https://github.com/user-attachments/assets/012afb6b-ffac-4a6e-bca1-9b6e462b6f26" />
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnickolas/pnickolas/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnickolas/pnickolas/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pnickolas/pnickolas/output/pacman-contribution-graph.svg">
+</picture>
